@@ -1,0 +1,24 @@
+.goods-list {
+  border: 2px solid black;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin-left: 100px;
+}
+
+.goods-item {
+  border: 1px solid wheat;
+  width: 150px;
+  box-sizing: border-box;
+  padding: 0px 20px;
+  margin: 10px 10px;
+}
+
+.container{
+display: flex;
+}
+
+.block-navi{
+  display: flex;
+  flex-flow: column;
+}
